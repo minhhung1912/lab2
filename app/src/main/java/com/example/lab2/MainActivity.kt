@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
+        var test:String? = "Hello github va xinh chao moi nguoi"
+
     }
 }
